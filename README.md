@@ -1,6 +1,6 @@
 # Tribute-Page
 My second HTML-only project – a tribute page to Dr. A.P.J. Abdul Kalam
-What I Learned
+What I Learned through this project: 
 
 - Structuring web pages using semantic HTML
 - Using Git and GitHub to host projects
